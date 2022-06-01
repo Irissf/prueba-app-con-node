@@ -1,0 +1,14 @@
+{
+  "name": "prueba-app-con-node",
+  "version": "1.0.0",
+  "description": "introduciendo package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iris",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
