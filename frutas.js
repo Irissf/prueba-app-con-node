@@ -1,5 +1,5 @@
-const frutas = ["Peras", "Manzanas", "Fresas"];
-const precios = [1.00,0.50];
+const frutas = ["Peras", "Manzanas", "Fresas","Naranjas"];
+const precios = [1.00,0.50,3.00];
 
 module.exports = {
     "frutas":frutas,

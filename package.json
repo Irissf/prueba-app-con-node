@@ -4,11 +4,14 @@
   "description": "introduciendo package.json",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "author": "Iris",
   "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
   "dependencies": {
-    "moment": "^2.29.3"
+    "cowsay": "^1.5.0"
   }
 }
